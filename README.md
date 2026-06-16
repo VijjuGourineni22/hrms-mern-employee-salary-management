@@ -3,15 +3,15 @@
 Fullstack open source employee salary management application made with MySql, Express, React & Nodejs (MERN) </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
+- [Configuration and Setup](#configuration-and-setup)
+- [Key Features](#key-features)
+- [Technologies used](#technologies-used)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [Database](#database)
+- [Screenshots](#screenshots)
+- [Author](#author)
+- [License](#license)
 
 ## Configuration and Setup
 
